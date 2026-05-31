@@ -1,5 +1,8 @@
 <img width="766" height="596" alt="image" src="https://github.com/user-attachments/assets/9b6c0a23-3252-460c-8cc7-525e3840e7ce" />
 
+- ⬇ ダウンロード  
+https://github.com/sshstg103-sudo/PdfBatchPrint/releases/latest
+
 # PdfBatchPrint
 
 Windows環境で複数のPDFファイルを一括印刷するためのライブラリです。
