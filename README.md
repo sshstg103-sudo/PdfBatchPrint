@@ -1,4 +1,4 @@
-<img width="786" height="722" alt="pbp" src="https://github.com/user-attachments/assets/b68b9411-54e8-494e-b3b9-9b4321a084fe" />
+<img width="786" height="722" alt="pbp" src="https://github.com/user-attachments/assets/db289e86-367b-4b74-866f-a89322fa1df3" />
 
 - ⬇ ダウンロード  
 https://github.com/sshstg103-sudo/PdfBatchPrint/releases/latest
